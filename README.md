@@ -1,4 +1,7 @@
-[MacOs]
+**[MacOs]**
+
+
+**About** <br />
 
 The goal of this project is to use multi-threads programming with the use of mutex.
 Optimization is crucial to save every bit of CPU usage to ensure the survival of our philosophers.
